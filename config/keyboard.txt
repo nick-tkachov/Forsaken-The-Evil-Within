@@ -1,0 +1,1 @@
+up=87&down=83&left=65&right=68&one=49&two=50&three=51&reload=82&
